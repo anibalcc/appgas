@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105363368971",
+    "firebase_url": "https://proyecto-real.firebaseio.com",
+    "project_id": "proyecto-real",
+    "storage_bucket": "proyecto-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105363368971:android:7e250ed3efe9538504eb0e",
+        "android_client_info": {
+          "package_name": "com.example.appgas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105363368971-ckca6g38r78cpjn51rpqo1kel14rgirl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8xIKE-6bIjGtb5sR3yVLRVPNS1F2cBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105363368971-ckca6g38r78cpjn51rpqo1kel14rgirl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
